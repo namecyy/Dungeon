@@ -62,7 +62,7 @@ Assets/
 
 ## 演示
 
-> 📷 截图 / 🎬 演示视频链接（待补充）
+<video src="https://github.com/namecyy/Dungeon/releases/download/video/Demonstration.mp4" controls width="600"></video>
 
 ## 待办 / 后续计划
 
